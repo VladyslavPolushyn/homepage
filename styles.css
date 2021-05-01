@@ -40,7 +40,7 @@ section {
   width: 100%;
   transition: .4s;
   opacity: 0;
-  background: url('https://www.ssbwiki.com/images/thumb/3/3a/Ryu_SF5.png/250px-Ryu_SF5.png') no-repeat center/cover;
+  background: url('https://www.ssbwiki.com/images/thumb/3/3a/Ryu_SF5.png/250px-Ryu_SF5.png') no-repeat center/contain;
 }
 
 .avatar-wrapper:hover > img {
